@@ -47,6 +47,7 @@ requests==2.31.0
 rich==13.6.0
 rpds-py==0.10.6
 seaborn==0.13.0
+scikit-learn==0.24.2
 six==1.16.0
 smmap==5.0.1
 streamlit==1.27.2
